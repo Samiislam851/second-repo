@@ -1,16 +1,9 @@
 *{margin:0px;
 font-family: cursive;
 }
-img{
-    height:50vh;
-    display: flex;
-    float:right;
-    position:relative;
-    right:0px;
-}
+
 p{font-size:20px;
-margin:5vh 3%;
-text-align: justifygit checkout;}
+margin:5vh 3%;}
 h1{ position:relative;
     left:30%;
     text-align: center;
