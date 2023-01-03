@@ -2,20 +2,16 @@
 font-family: cursive;
 }
 #bike_image{
-   text-align: center;
+    text-align: center;
+     display: block;
+     float :right;
+     width:50vw;
     
-   width:50vw;
-   display:fex;
-   float:right;
-}
-#bike_image img{
-    width:90%;
-    display:block;
-    position: relative;
-    
-    
-    
-}
+ }
+ #bike_image img{
+     width:90%;
+     position: relative; 
+ }
 p{font-size:20px;
 margin:5vh 3%;}
 h1{ position:relative;
